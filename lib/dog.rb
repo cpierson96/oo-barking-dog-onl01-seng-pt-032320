@@ -1,5 +1,5 @@
 class Dog 
-  
+  attr_accessor
   def bark 
     puts "woof!"
 end 
